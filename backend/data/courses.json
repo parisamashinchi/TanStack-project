@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e1",
+    "title": "Web Develop",
+    "description": "learn, practice, web fundamental courses",
+    "duration": "40",
+    "image": "Web-Developer.png"
+  },
+  {
+    "id": "e2",
+    "title": "react course",
+    "image": "react.jpeg",
+    "description": "learn, practice, react courses",
+    "duration": "50"
+  },
+  {
+    "id": "e3",
+    "title": "redux course",
+    "description": "learn, practice, redux courses.",
+    "duration": "8",
+    "image": "redux.png"
+  },
+  {
+    "id": "e4",
+    "title": "styled component course",
+    "description": "learn, practice, styled component courses.",
+    "duration": "10",
+    "image": "styled-component.jpg"
+  }
+]
